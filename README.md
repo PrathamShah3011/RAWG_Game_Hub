@@ -1,6 +1,7 @@
 # RAWG_Game_Hub
 
 A modern, responsive Games Catalogue built with ReactJS. This application allows users to browse a vast library of video games, view detailed information, and discover new recommendations based on genres and platforms.
+
 🚀 Features
 
     Game Library: Browse a collection of thousands of games with high-quality box art.
